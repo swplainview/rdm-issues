@@ -14,7 +14,7 @@
 | claim-api | medium | open |
 | claim-ui | medium | open |
 | docker-compose | medium | done |
-| google-oauth | medium | open |
+| google-oauth | medium | done |
 | history-api | medium | open |
 | history-ui | medium | open |
 | jwt-sessions | medium | open |
