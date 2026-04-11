@@ -17,7 +17,7 @@
 | google-oauth | medium | done |
 | history-api | medium | open |
 | history-ui | medium | open |
-| jwt-sessions | medium | open |
+| jwt-sessions | medium | done |
 | label-api | medium | open |
 | label-generation | medium | open |
 | label-ui | medium | open |
