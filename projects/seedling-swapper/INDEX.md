@@ -13,7 +13,7 @@
 | base-api | medium | open |
 | claim-api | medium | open |
 | claim-ui | medium | open |
-| docker-compose | medium | open |
+| docker-compose | medium | done |
 | google-oauth | medium | open |
 | history-api | medium | open |
 | history-ui | medium | open |
