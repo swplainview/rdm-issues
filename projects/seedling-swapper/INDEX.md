@@ -4,7 +4,7 @@
 
 | Roadmap | Phases | Progress | Dependencies |
 |---|---|---|---|
-| [v1](roadmaps/v1/roadmap.md) | 9 | 5/9 done | — |
+| [v1](roadmaps/v1/roadmap.md) | 10 | 5/10 done | — |
 
 | Task | Priority | Status |
 |---|---|---|
