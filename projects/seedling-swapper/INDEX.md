@@ -25,7 +25,7 @@
 | listing-ui | medium | open |
 | listings-browse-ui | medium | open |
 | local-auth | medium | open |
-| monorepo-scaffold | medium | open |
+| monorepo-scaffold | medium | done |
 | photo-upload | medium | open |
 | plant-api-integration | medium | open |
 | prisma-schema | medium | open |
