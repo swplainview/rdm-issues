@@ -15,6 +15,7 @@
 | claim-ui | medium | open |
 | docker-compose | medium | done |
 | email-validation | medium | done |
+| favicon | medium | open |
 | google-oauth | medium | done |
 | history-api | medium | open |
 | history-ui | medium | open |
