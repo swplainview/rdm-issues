@@ -24,7 +24,7 @@
 | listing-api | medium | open |
 | listing-ui | medium | open |
 | listings-browse-ui | medium | open |
-| local-auth | medium | open |
+| local-auth | medium | done |
 | monorepo-scaffold | medium | done |
 | photo-upload | medium | open |
 | plant-api-integration | medium | open |
