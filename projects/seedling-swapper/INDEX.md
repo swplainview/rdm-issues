@@ -37,4 +37,5 @@
 | swap-context | medium | open |
 | swap-form-datetime-ux | medium | done |
 | swap-ui | medium | open |
+| swap-visibility-persistence | medium | open |
 | user-management | medium | open |
