@@ -28,7 +28,7 @@
 | monorepo-scaffold | medium | done |
 | photo-upload | medium | open |
 | plant-api-integration | medium | open |
-| prisma-schema | medium | open |
+| prisma-schema | medium | done |
 | swap-api | medium | open |
 | swap-context | medium | open |
 | swap-ui | medium | open |
