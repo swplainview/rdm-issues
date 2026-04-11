@@ -23,6 +23,7 @@
 | label-generation | medium | open |
 | label-ui | medium | open |
 | listing-api | medium | open |
+| listing-quantity-edit | medium | open |
 | listing-ui | medium | open |
 | listings-browse-ui | medium | open |
 | local-auth | medium | done |
