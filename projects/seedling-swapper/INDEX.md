@@ -14,7 +14,7 @@
 | claim-api | medium | open |
 | claim-ui | medium | open |
 | docker-compose | medium | done |
-| email-validation | medium | open |
+| email-validation | medium | done |
 | google-oauth | medium | done |
 | history-api | medium | open |
 | history-ui | medium | open |
@@ -32,6 +32,6 @@
 | prisma-schema | medium | done |
 | swap-api | medium | open |
 | swap-context | medium | open |
-| swap-form-datetime-ux | medium | open |
+| swap-form-datetime-ux | medium | done |
 | swap-ui | medium | open |
 | user-management | medium | open |
