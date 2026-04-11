@@ -4,7 +4,7 @@
 
 | Roadmap | Phases | Progress | Dependencies |
 |---|---|---|---|
-| [v1](roadmaps/v1/roadmap.md) | 10 | 6/10 done | — |
+| [v1](roadmaps/v1/roadmap.md) | 10 | 7/10 done | — |
 
 | Task | Priority | Status |
 |---|---|---|
@@ -41,5 +41,6 @@
 | swap-form-datetime-ux | medium | done |
 | swap-ui | medium | open |
 | swap-visibility-persistence | medium | wont-fix |
+| title-case-plant-names | medium | open |
 | user-deletion | medium | open |
 | user-management | medium | open |
