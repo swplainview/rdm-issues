@@ -32,9 +32,10 @@
 | local-auth | medium | done |
 | monorepo-scaffold | medium | done |
 | photo-upload | medium | open |
-| photo-upload-multipart | medium | in-progress |
+| photo-upload-multipart | medium | done |
 | plant-api-integration | medium | open |
 | prisma-schema | medium | done |
+| quantity-input-leading-zero | medium | open |
 | swap-api | medium | open |
 | swap-context | medium | open |
 | swap-form-datetime-ux | medium | done |
