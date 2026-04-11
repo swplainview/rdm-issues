@@ -1,9 +1,11 @@
 ---
 project: seedling-swapper
 title: 'Fix photo upload: route receives multipart as JSON'
-status: in-progress
+status: done
 priority: medium
 created: 2026-04-11
+completed: 2026-04-11
+commit: 1b7945768f047a95188939055eaeb3a5e26e7bef
 ---
 
 Photo upload requests fail with `SyntaxError: Unexpected token '-'` because the global `express.json()` middleware is trying to parse multipart/form-data bodies on the photo upload route.
