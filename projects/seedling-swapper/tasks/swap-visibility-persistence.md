@@ -1,7 +1,7 @@
 ---
 project: seedling-swapper
 title: 'Fix swap visibility: active swaps invisible to non-admin after restart'
-status: open
+status: wont-fix
 priority: medium
 created: 2026-04-11
 ---
