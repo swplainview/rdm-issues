@@ -4,7 +4,7 @@
 
 | Roadmap | Phases | Progress | Dependencies |
 |---|---|---|---|
-| [v1](roadmaps/v1/roadmap.md) | 8 | 4/8 done | — |
+| [v1](roadmaps/v1/roadmap.md) | 8 | 5/8 done | — |
 
 | Task | Priority | Status |
 |---|---|---|
@@ -23,6 +23,7 @@
 | label-generation | medium | open |
 | label-ui | medium | open |
 | listing-api | medium | open |
+| listing-detail-back-button | medium | open |
 | listing-post-save-nav | medium | done |
 | listing-quantity-edit | medium | done |
 | listing-ui | medium | open |
