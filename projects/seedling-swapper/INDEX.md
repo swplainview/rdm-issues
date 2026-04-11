@@ -10,7 +10,7 @@
 |---|---|---|
 | admin-overview | medium | open |
 | auth-ui | medium | open |
-| base-api | medium | open |
+| base-api | medium | done |
 | claim-api | medium | open |
 | claim-ui | medium | open |
 | docker-compose | medium | done |
