@@ -11,6 +11,7 @@ phases:
 - phase-6-labels
 - phase-7-admin-panel
 - phase-8-history
+- phase-9-phase-9-user-profiles
 ---
 
 Full first release of the Seedling Swapper web application. React + TypeScript frontend, Node + TypeScript + Express backend, PostgreSQL database, Docker deployment.
