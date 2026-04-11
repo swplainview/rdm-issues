@@ -4,4 +4,4 @@
 
 | Project | Roadmaps | Tasks | Progress |
 |---|---|---|---|
-| [seedling-swapper](projects/seedling-swapper/INDEX.md) | 1 | 25 | not started |
+| [seedling-swapper](projects/seedling-swapper/INDEX.md) | 1 | 25 | 1/8 done |
