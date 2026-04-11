@@ -33,6 +33,7 @@
 | listings-browse-ui | medium | open |
 | local-auth | medium | done |
 | monorepo-scaffold | medium | done |
+| password-change | medium | open |
 | photo-upload | medium | open |
 | photo-upload-multipart | medium | done |
 | plant-api-integration | medium | open |
