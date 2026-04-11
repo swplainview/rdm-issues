@@ -4,7 +4,7 @@
 
 | Roadmap | Phases | Progress | Dependencies |
 |---|---|---|---|
-| [v1](roadmaps/v1/roadmap.md) | 8 | 5/8 done | — |
+| [v1](roadmaps/v1/roadmap.md) | 9 | 5/9 done | — |
 
 | Task | Priority | Status |
 |---|---|---|
@@ -23,8 +23,8 @@
 | label-generation | medium | open |
 | label-ui | medium | open |
 | listing-api | medium | open |
-| listing-claims-visibility | medium | open |
-| listing-detail-back-button | medium | open |
+| listing-claims-visibility | medium | done |
+| listing-detail-back-button | medium | done |
 | listing-post-save-nav | medium | done |
 | listing-quantity-edit | medium | done |
 | listing-ui | medium | open |
@@ -35,7 +35,7 @@
 | photo-upload-multipart | medium | done |
 | plant-api-integration | medium | open |
 | prisma-schema | medium | done |
-| quantity-input-leading-zero | medium | open |
+| quantity-input-leading-zero | medium | done |
 | swap-api | medium | open |
 | swap-context | medium | open |
 | swap-form-datetime-ux | medium | done |
