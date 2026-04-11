@@ -23,6 +23,7 @@
 | label-generation | medium | open |
 | label-ui | medium | open |
 | listing-api | medium | open |
+| listing-claims-visibility | medium | open |
 | listing-detail-back-button | medium | open |
 | listing-post-save-nav | medium | done |
 | listing-quantity-edit | medium | done |
