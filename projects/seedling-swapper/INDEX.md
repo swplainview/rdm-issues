@@ -4,7 +4,7 @@
 
 | Roadmap | Phases | Progress | Dependencies |
 |---|---|---|---|
-| [v1](roadmaps/v1/roadmap.md) | 8 | 2/8 done | — |
+| [v1](roadmaps/v1/roadmap.md) | 8 | 3/8 done | — |
 
 | Task | Priority | Status |
 |---|---|---|
@@ -31,5 +31,6 @@
 | prisma-schema | medium | done |
 | swap-api | medium | open |
 | swap-context | medium | open |
+| swap-form-datetime-ux | medium | open |
 | swap-ui | medium | open |
 | user-management | medium | open |
