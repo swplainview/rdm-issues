@@ -9,7 +9,7 @@
 | Task | Priority | Status |
 |---|---|---|
 | admin-overview | medium | open |
-| auth-ui | medium | open |
+| auth-ui | medium | done |
 | base-api | medium | done |
 | claim-api | medium | open |
 | claim-ui | medium | open |
