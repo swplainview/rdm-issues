@@ -4,7 +4,7 @@
 
 | Roadmap | Phases | Progress | Dependencies |
 |---|---|---|---|
-| [v1](roadmaps/v1/roadmap.md) | 8 | 3/8 done | — |
+| [v1](roadmaps/v1/roadmap.md) | 8 | 4/8 done | — |
 
 | Task | Priority | Status |
 |---|---|---|
@@ -28,6 +28,7 @@
 | local-auth | medium | done |
 | monorepo-scaffold | medium | done |
 | photo-upload | medium | open |
+| photo-upload-multipart | medium | open |
 | plant-api-integration | medium | open |
 | prisma-schema | medium | done |
 | swap-api | medium | open |
