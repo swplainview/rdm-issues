@@ -42,7 +42,11 @@
       "Bash(rdm promote:*)",
       "Bash(rdm describe:*)",
       "Bash(rdm commit:*)",
-      "Bash(rdm tree:*)"
+      "Bash(rdm tree:*)",
+      "Bash(docker compose:*)",
+      "Bash(DATABASE_URL=postgresql://seedling:temporary-test-pw@localhost:5432/seedling_swapper_test pnpm exec prisma migrate deploy)",
+      "Bash(pnpm test:*)",
+      "Bash(pnpm typecheck:*)"
     ]
   }
 }
