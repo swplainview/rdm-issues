@@ -9,6 +9,7 @@ phases:
 - phase-4-admin-overview
 - phase-5-user-deletion
 - phase-6-plant-name-normalization
+- phase-7-password-reset
 ---
 
 Second iteration of Seedling Swapper, building on the v1 foundation with improved listing metadata, admin tooling, and swap management features.
