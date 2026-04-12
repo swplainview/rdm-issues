@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [notifications](roadmaps/notifications/roadmap.md) | 3 | complete | — |
 | [v1](roadmaps/v1/roadmap.md) | 10 | complete | — |
-| [v2](roadmaps/v2/roadmap.md) | 6 | not started | — |
+| [v2](roadmaps/v2/roadmap.md) | 7 | not started | — |
 
 | Task | Priority | Status |
 |---|---|---|
