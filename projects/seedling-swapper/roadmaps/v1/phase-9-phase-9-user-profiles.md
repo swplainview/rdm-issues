@@ -1,7 +1,9 @@
 ---
 phase: 9
 title: User Profiles
-status: not-started
+status: done
+completed: 2026-04-12
+commit: 6b76b34deaf000f30c3e63ab80b9186f692c4248
 ---
 
 Users can build out a public profile and others can browse listings by user.

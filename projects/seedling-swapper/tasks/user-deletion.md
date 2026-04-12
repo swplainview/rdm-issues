@@ -1,7 +1,7 @@
 ---
 project: seedling-swapper
 title: User account deletion
-status: open
+status: wont-fix
 priority: medium
 created: 2026-04-11
 ---

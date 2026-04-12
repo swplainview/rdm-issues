@@ -1,7 +1,7 @@
 ---
 project: seedling-swapper
 title: Add categories to listings
-status: open
+status: wont-fix
 priority: medium
 created: 2026-04-11
 ---
@@ -19,3 +19,6 @@ Users should be able to tag a listing with a category (e.g., Pepper, Berry, Flow
 - New `Category` model: `id`, `name` (unique), `createdAt`
 - `Listing` gets an optional `categoryId` foreign key
 - Requires a migration
+
+## Related
+- `hardened-off` — both tasks add metadata fields to listings; should be implemented together or in the same phase

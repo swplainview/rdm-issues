@@ -1,7 +1,7 @@
 ---
 project: seedling-swapper
 title: Normalize plant names to title case
-status: open
+status: wont-fix
 priority: medium
 created: 2026-04-11
 ---

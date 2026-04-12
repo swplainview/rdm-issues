@@ -4,46 +4,49 @@
 
 | Roadmap | Phases | Progress | Dependencies |
 |---|---|---|---|
-| [v1](roadmaps/v1/roadmap.md) | 10 | 7/10 done | — |
+| [notifications](roadmaps/notifications/roadmap.md) | 3 | complete | — |
+| [v1](roadmaps/v1/roadmap.md) | 10 | complete | — |
+| [v2](roadmaps/v2/roadmap.md) | 6 | not started | — |
 
 | Task | Priority | Status |
 |---|---|---|
-| admin-overview | medium | open |
+| admin-overview | medium | wont-fix |
 | auth-ui | medium | done |
 | base-api | medium | done |
-| claim-api | medium | open |
-| claim-ui | medium | open |
+| claim-api | medium | wont-fix |
+| claim-ui | medium | wont-fix |
 | docker-compose | medium | done |
 | email-validation | medium | done |
-| favicon | medium | open |
+| favicon | medium | done |
 | google-oauth | medium | done |
-| history-api | medium | open |
-| history-ui | medium | open |
+| hardened-off | medium | wont-fix |
+| history-api | medium | wont-fix |
+| history-ui | medium | wont-fix |
 | jwt-sessions | medium | done |
-| label-api | medium | open |
-| label-generation | medium | open |
-| label-ui | medium | open |
-| listing-api | medium | open |
-| listing-categories | medium | open |
+| label-api | medium | wont-fix |
+| label-generation | medium | wont-fix |
+| label-ui | medium | wont-fix |
+| listing-api | medium | wont-fix |
+| listing-categories | medium | wont-fix |
 | listing-claims-visibility | medium | done |
 | listing-detail-back-button | medium | done |
 | listing-post-save-nav | medium | done |
 | listing-quantity-edit | medium | done |
-| listing-ui | medium | open |
-| listings-browse-ui | medium | open |
+| listing-ui | medium | wont-fix |
+| listings-browse-ui | medium | wont-fix |
 | local-auth | medium | done |
 | monorepo-scaffold | medium | done |
-| password-change | medium | open |
-| photo-upload | medium | open |
+| password-change | medium | done |
+| photo-upload | medium | wont-fix |
 | photo-upload-multipart | medium | done |
-| plant-api-integration | medium | open |
+| plant-api-integration | medium | wont-fix |
 | prisma-schema | medium | done |
 | quantity-input-leading-zero | medium | done |
-| swap-api | medium | open |
-| swap-context | medium | open |
+| swap-api | medium | wont-fix |
+| swap-context | medium | wont-fix |
 | swap-form-datetime-ux | medium | done |
-| swap-ui | medium | open |
+| swap-ui | medium | wont-fix |
 | swap-visibility-persistence | medium | wont-fix |
-| title-case-plant-names | medium | open |
-| user-deletion | medium | open |
-| user-management | medium | open |
+| title-case-plant-names | medium | wont-fix |
+| user-deletion | medium | wont-fix |
+| user-management | medium | wont-fix |

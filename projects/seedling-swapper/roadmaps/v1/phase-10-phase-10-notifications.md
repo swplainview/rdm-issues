@@ -1,7 +1,8 @@
 ---
 phase: 10
 title: Notifications
-status: not-started
+status: done
+completed: 2026-04-12
 ---
 
 An opt-in notification system that keeps users informed about activity relevant to them.

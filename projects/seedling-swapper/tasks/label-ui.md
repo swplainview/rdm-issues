@@ -1,7 +1,7 @@
 ---
 project: seedling-swapper
 title: Label download UI
-status: open
+status: wont-fix
 priority: medium
 created: 2026-04-11
 tags:

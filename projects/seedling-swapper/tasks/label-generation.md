@@ -1,7 +1,7 @@
 ---
 project: seedling-swapper
 title: PDF label generation service
-status: open
+status: wont-fix
 priority: medium
 created: 2026-04-11
 tags:
