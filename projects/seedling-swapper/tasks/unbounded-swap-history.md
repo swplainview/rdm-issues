@@ -1,9 +1,11 @@
 ---
 project: seedling-swapper
 title: Paginate unbounded swap history query
-status: open
+status: done
 priority: medium
 created: 2026-04-14
+completed: 2026-04-14
+commit: e4df2f4fc8bb70f3b8388a8a06a32cade5cfa009
 ---
 
 Fixes GitHub issue #2 (priority: critical).
