@@ -59,5 +59,6 @@
 | swap-visibility-persistence | medium | wont-fix |
 | title-case-plant-names | medium | wont-fix |
 | unbounded-swap-history | medium | open |
+| usecallback-account-handlers | medium | open |
 | user-deletion | medium | wont-fix |
 | user-management | medium | wont-fix |
