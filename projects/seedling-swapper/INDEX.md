@@ -10,6 +10,7 @@
 
 | Task | Priority | Status |
 |---|---|---|
+| active-swap-cache | medium | open |
 | admin-overview | medium | wont-fix |
 | admin-users-pagination | medium | open |
 | auth-ui | medium | done |
