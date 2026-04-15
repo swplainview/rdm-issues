@@ -38,6 +38,7 @@
 | monorepo-scaffold | medium | done |
 | n-plus-one-notifications | medium | open |
 | password-change | medium | done |
+| perenual-api-timeout | medium | open |
 | photo-upload | medium | wont-fix |
 | photo-upload-multipart | medium | done |
 | plant-api-integration | medium | wont-fix |
