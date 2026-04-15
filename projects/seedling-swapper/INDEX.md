@@ -16,6 +16,7 @@
 | base-api | medium | done |
 | claim-api | medium | wont-fix |
 | claim-ui | medium | wont-fix |
+| context-memoization | medium | open |
 | docker-compose | medium | done |
 | email-validation | medium | done |
 | favicon | medium | done |
