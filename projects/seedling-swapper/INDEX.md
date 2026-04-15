@@ -48,6 +48,7 @@
 | swap-api | medium | wont-fix |
 | swap-context | medium | wont-fix |
 | swap-form-datetime-ux | medium | done |
+| swap-stats-aggregation | medium | open |
 | swap-ui | medium | wont-fix |
 | swap-visibility-persistence | medium | wont-fix |
 | title-case-plant-names | medium | wont-fix |
