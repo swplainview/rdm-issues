@@ -39,6 +39,7 @@
 | missing-db-indexes | medium | open |
 | monorepo-scaffold | medium | done |
 | n-plus-one-notifications | medium | open |
+| parallel-listing-refreshes | medium | open |
 | parallel-profile-fetches | medium | open |
 | password-change | medium | done |
 | perenual-api-timeout | medium | open |
