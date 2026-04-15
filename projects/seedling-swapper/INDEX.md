@@ -35,6 +35,7 @@
 | listing-ui | medium | wont-fix |
 | listings-browse-ui | medium | wont-fix |
 | local-auth | medium | done |
+| missing-db-indexes | medium | open |
 | monorepo-scaffold | medium | done |
 | n-plus-one-notifications | medium | open |
 | password-change | medium | done |
