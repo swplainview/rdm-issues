@@ -11,6 +11,7 @@
 | Task | Priority | Status |
 |---|---|---|
 | admin-overview | medium | wont-fix |
+| admin-users-pagination | medium | open |
 | auth-ui | medium | done |
 | base-api | medium | done |
 | claim-api | medium | wont-fix |
