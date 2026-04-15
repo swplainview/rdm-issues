@@ -36,6 +36,7 @@
 | listings-browse-ui | medium | wont-fix |
 | local-auth | medium | done |
 | monorepo-scaffold | medium | done |
+| n-plus-one-notifications | medium | open |
 | password-change | medium | done |
 | photo-upload | medium | wont-fix |
 | photo-upload-multipart | medium | done |
