@@ -1,9 +1,11 @@
 ---
 project: seedling-swapper
 title: Move swap history stat aggregation to database layer
-status: open
+status: done
 priority: medium
 created: 2026-04-14
+completed: 2026-04-14
+commit: a10f16b65fccd4e42d62e579751972205eaec5e0
 ---
 
 Fixes GitHub issue #5 (priority: high).
