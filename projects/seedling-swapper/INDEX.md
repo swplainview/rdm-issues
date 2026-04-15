@@ -40,6 +40,7 @@
 | missing-db-indexes | medium | open |
 | monorepo-scaffold | medium | done |
 | n-plus-one-notifications | medium | open |
+| notifications-refresh | medium | open |
 | parallel-listing-refreshes | medium | open |
 | parallel-profile-fetches | medium | open |
 | password-change | medium | done |
