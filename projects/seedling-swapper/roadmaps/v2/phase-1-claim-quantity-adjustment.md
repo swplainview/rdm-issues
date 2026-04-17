@@ -1,7 +1,9 @@
 ---
 phase: 1
 title: Claim quantity adjustment by listing owner
-status: not-started
+status: done
+completed: 2026-04-16
+commit: f0b3d7a4d0b7b2ed79c2fe5a2735aac7b436f611
 ---
 
 Allow the owner of a listing to manually adjust the quantity allocated to a specific claim — for example, to accommodate a partial fulfillment or correct an over-claim.
