@@ -15,11 +15,11 @@
 | admin-users-pagination | medium | open |
 | auth-ui | medium | done |
 | base-api | medium | done |
-| blank-notification-preference-option | medium | open |
-| claim-adjustment-note | medium | open |
+| blank-notification-preference-option | medium | done |
+| claim-adjustment-note | medium | done |
 | claim-api | medium | wont-fix |
 | claim-ui | medium | wont-fix |
-| claims-display-owner-bug | medium | open |
+| claims-display-owner-bug | medium | done |
 | context-memoization | medium | open |
 | docker-compose | medium | done |
 | email-validation | medium | done |
