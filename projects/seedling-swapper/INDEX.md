@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [notifications](roadmaps/notifications/roadmap.md) | 3 | complete | — |
 | [v1](roadmaps/v1/roadmap.md) | 10 | complete | — |
-| [v2](roadmaps/v2/roadmap.md) | 7 | not started | — |
+| [v2](roadmaps/v2/roadmap.md) | 7 | 1/7 done | — |
 
 | Task | Priority | Status |
 |---|---|---|
@@ -15,6 +15,7 @@
 | admin-users-pagination | medium | open |
 | auth-ui | medium | done |
 | base-api | medium | done |
+| blank-notification-preference-option | medium | open |
 | claim-api | medium | wont-fix |
 | claim-ui | medium | wont-fix |
 | context-memoization | medium | open |
@@ -39,14 +40,14 @@
 | listings-browse-ui | medium | wont-fix |
 | local-auth | medium | done |
 | memo-search-filter | medium | open |
-| missing-db-indexes | medium | open |
+| missing-db-indexes | medium | done |
 | monorepo-scaffold | medium | done |
-| n-plus-one-notifications | medium | open |
+| n-plus-one-notifications | medium | done |
 | notifications-refresh | medium | open |
 | parallel-listing-refreshes | medium | open |
 | parallel-profile-fetches | medium | open |
 | password-change | medium | done |
-| perenual-api-timeout | medium | open |
+| perenual-api-timeout | medium | done |
 | photo-upload | medium | wont-fix |
 | photo-upload-multipart | medium | done |
 | plant-api-integration | medium | wont-fix |
@@ -55,11 +56,11 @@
 | swap-api | medium | wont-fix |
 | swap-context | medium | wont-fix |
 | swap-form-datetime-ux | medium | done |
-| swap-stats-aggregation | medium | open |
+| swap-stats-aggregation | medium | done |
 | swap-ui | medium | wont-fix |
 | swap-visibility-persistence | medium | wont-fix |
 | title-case-plant-names | medium | wont-fix |
-| unbounded-swap-history | medium | open |
+| unbounded-swap-history | medium | done |
 | usecallback-account-handlers | medium | open |
 | user-deletion | medium | wont-fix |
 | user-management | medium | wont-fix |
