@@ -19,6 +19,7 @@
 | claim-adjustment-note | medium | open |
 | claim-api | medium | wont-fix |
 | claim-ui | medium | wont-fix |
+| claims-display-owner-bug | medium | open |
 | context-memoization | medium | open |
 | docker-compose | medium | done |
 | email-validation | medium | done |
