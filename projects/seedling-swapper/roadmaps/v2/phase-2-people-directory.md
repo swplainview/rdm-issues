@@ -1,7 +1,9 @@
 ---
 phase: 2
 title: People directory
-status: not-started
+status: done
+completed: 2026-04-16
+commit: 1a488efcd87205222f7969b7523cae88d89eb826
 ---
 
 A searchable directory of all members, making it easy to find and follow other users.
