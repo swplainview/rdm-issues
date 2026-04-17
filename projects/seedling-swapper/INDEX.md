@@ -16,6 +16,7 @@
 | auth-ui | medium | done |
 | base-api | medium | done |
 | blank-notification-preference-option | medium | open |
+| claim-adjustment-note | medium | open |
 | claim-api | medium | wont-fix |
 | claim-ui | medium | wont-fix |
 | context-memoization | medium | open |
