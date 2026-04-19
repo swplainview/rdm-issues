@@ -1,7 +1,7 @@
 ---
 phase: 3
 title: Display metadata on cards, detail page, and home filter
-status: not-started
+status: in-progress
 ---
 
 ## Context
