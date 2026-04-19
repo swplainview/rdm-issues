@@ -1,7 +1,9 @@
 ---
 phase: 3
 title: Display metadata on cards, detail page, and home filter
-status: in-progress
+status: done
+completed: 2026-04-19
+commit: c9637806c6f0e6015feb10aa6280956998cab3af
 ---
 
 ## Context
