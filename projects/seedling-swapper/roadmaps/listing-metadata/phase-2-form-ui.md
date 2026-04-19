@@ -1,7 +1,7 @@
 ---
 phase: 2
 title: Create and edit listing form UI
-status: not-started
+status: in-progress
 ---
 
 ## Context
