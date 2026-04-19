@@ -1,7 +1,7 @@
 ---
 phase: 4
 title: Admin category management UI
-status: not-started
+status: in-progress
 ---
 
 ## Context
