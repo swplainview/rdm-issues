@@ -1,7 +1,9 @@
 ---
 phase: 1
 title: DB migrations and API layer
-status: in-progress
+status: done
+completed: 2026-04-19
+commit: 4a935a150d3efffb058b5bc566dae02a8ccec760
 ---
 
 ## Context
