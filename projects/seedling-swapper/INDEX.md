@@ -4,7 +4,7 @@
 
 | Roadmap | Phases | Progress | Dependencies |
 |---|---|---|---|
-| [listing-metadata](roadmaps/listing-metadata/roadmap.md) | 4 | 1/4 done | — |
+| [listing-metadata](roadmaps/listing-metadata/roadmap.md) | 4 | 2/4 done | — |
 | [notifications](roadmaps/notifications/roadmap.md) | 3 | complete | — |
 | [v1](roadmaps/v1/roadmap.md) | 10 | complete | — |
 | [v2](roadmaps/v2/roadmap.md) | 7 | 2/7 done | — |
