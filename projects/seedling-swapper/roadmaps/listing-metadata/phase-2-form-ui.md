@@ -1,7 +1,9 @@
 ---
 phase: 2
 title: Create and edit listing form UI
-status: in-progress
+status: done
+completed: 2026-04-19
+commit: d103b000e1f6f93e5f244b4210334395fa9b9268
 ---
 
 ## Context
