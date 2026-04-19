@@ -1,7 +1,7 @@
 ---
 phase: 1
 title: DB migrations and API layer
-status: not-started
+status: in-progress
 ---
 
 ## Context
