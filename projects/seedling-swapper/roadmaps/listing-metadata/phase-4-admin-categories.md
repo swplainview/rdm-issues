@@ -1,7 +1,9 @@
 ---
 phase: 4
 title: Admin category management UI
-status: in-progress
+status: done
+completed: 2026-04-19
+commit: a85663b03c5c36f8db2664f71329856f8a0e8597
 ---
 
 ## Context
